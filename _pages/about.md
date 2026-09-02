@@ -2,7 +2,7 @@
 permalink: /
 title: "Junteng Liu"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
@@ -19,6 +19,10 @@ Education
 ======
 - **Ph.D. in Computer Science** (2024–Present), Hong Kong University of Science and Technology
 - **B.Eng.** (2020–2024), Shanghai Jiao Tong University
+
+Honors & Awards
+======
+- **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
 
 Research Experience
 ======
